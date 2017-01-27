@@ -1,0 +1,11 @@
+{
+  "name": "rectangle",
+  "private": true,
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "morgan": "^1.7.0",
+    "session-file-store": "^1.0.0"
+  }
+}

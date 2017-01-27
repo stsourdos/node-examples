@@ -1,0 +1,9 @@
+{
+  "name": "node-mongoose",
+  "private": true,
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.7.7",
+    "mongoose-currency": "^0.2.0"
+  }
+}
